@@ -1,6 +1,6 @@
 # flutter_restaurant_app
 
-A new Flutter project.
+Simple UI for a Flutter Restaurant App.
 
 ## Getting Started
 
